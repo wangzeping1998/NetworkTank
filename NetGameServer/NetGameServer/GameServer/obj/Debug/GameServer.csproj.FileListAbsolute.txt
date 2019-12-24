@@ -1,0 +1,6 @@
+C:\Users\wangz\Desktop\NetGameServer\NetGameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\wangz\Desktop\NetGameServer\NetGameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\wangz\Desktop\NetGameServer\NetGameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\wangz\Desktop\NetGameServer\NetGameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+C:\Users\wangz\Desktop\NetGameServer\NetGameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\wangz\Desktop\NetGameServer\NetGameServer\GameServer\obj\Debug\GameServer.pdb
